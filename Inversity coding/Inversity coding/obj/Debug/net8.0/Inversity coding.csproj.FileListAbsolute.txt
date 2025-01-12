@@ -1,0 +1,14 @@
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\bin\Debug\net8.0\Inversity coding.exe
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\bin\Debug\net8.0\Inversity coding.deps.json
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\bin\Debug\net8.0\Inversity coding.runtimeconfig.json
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\bin\Debug\net8.0\Inversity coding.dll
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\bin\Debug\net8.0\Inversity coding.pdb
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.AssemblyInfoInputs.cache
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.AssemblyInfo.cs
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.csproj.CoreCompileInputs.cache
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.dll
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\refint\Inversity coding.dll
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.pdb
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\Inversity coding.genruntimeconfig.cache
+C:\Users\mb.2405579\OneDrive - wsfc.ac.uk\College Subjects\Computer Science\Inversity\Inversity coding\Inversity coding\obj\Debug\net8.0\ref\Inversity coding.dll
